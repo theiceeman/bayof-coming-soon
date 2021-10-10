@@ -1,0 +1,88 @@
+
+.welcome-area {
+    background: rgba(0, 0, 0, 0) url(../img/slide/3.jpg) no-repeat scroll center center / cover;
+}
+/* rgba(16, 16, 45, 1) */
+/* .btn, .btn:active, .btn.apolo-btn:before, .bg-overlay::after, .benifits-item:after {
+    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(#d23078), to(#ff7955)) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #d23078 0%, #ff7955 100%) repeat scroll 0 0;
+} */
+/* .btn, .btn:active, .btn.apolo-btn:before, .bg-overlay::after, .benifits-item:after {
+    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(rgba(16, 16, 45, 1)), to(#0ec6d5)) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, rgba(16, 16, 45, 1) 0%, #0ec6d5 100%) repeat scroll 0 0;
+} */
+.btn, .btn:active, .btn.apolo-btn:before, .bg-overlay::after, .benifits-item:after {
+    background: rgba(0, 0, 0, 0) -webkit-gradient(linear, left top, right top, from(rgba(16, 16, 45, 1)), to(rgba(16, 16, 45, 1))) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, rgba(16, 16, 45, 1) 0%, rgba(16, 16, 45, 1) 100%) repeat scroll 0 0;
+}
+
+.contact-box{
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    box-shadow: 0 20px 15px 0 rgb(51 51 51 / 3%) !important;
+    background-color: #f6f9fe;
+    /* padding: 15px 20px; */
+    padding-bottom: 1.875rem !important;
+    padding-top: 2.5rem !important;
+    padding-right: 2.5rem !important;
+    padding-left: 2.5rem !important;
+}
+
+.contact-box button {
+    background: #0ec6d5 !important;
+}
+
+.pad-footer{
+    padding-left: 42%;
+}
+
+.p-footer{
+    padding: 10px 0;
+}
+
+.mt-30{
+    margin-top: 60px;
+}
+
+.be-agent{
+    font-size: 40px;
+    line-height: 1;
+}
+
+.pad-be-agent{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.height-emulator {
+    float: left;
+    height: 150px;
+}
+
+.js-snackbar__message{
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.social-icons > a.google-plus {
+    background-color: #e95950 !important;
+}
+
+/* #128C7E */
+.social-icons > a.whatsapp {
+    background-color: #128C7E  !important;
+}
+
+
+
+
+
+
+
+
+@media (max-width: 575px){
+    .welcome-thumb {
+        max-width:none;
+    }
+    .pad-footer{
+        padding-left: 23%;
+    }
+}
