@@ -146,7 +146,7 @@ $days_Remaining = $user->countdown();
                                     <img src="assets/img/icon/app-store.png" alt="">
                                 </a>
                             </div> -->
-                            <span class="d-inline-block text-white fw-3 font-italic mt-3">* Launching this month, August 2021...</span>
+                            <span class="d-inline-block text-white fw-3 font-italic mt-3">* Launching this month, July 2024...</span>
                         </div>
                     </div>
                     <div class="col-12 col-md-5 col-sm-12 pt-4 pt-md-0">
@@ -154,7 +154,7 @@ $days_Remaining = $user->countdown();
                         <div class="welcome-thumb mx-auto" data-aos="fade-left" data-aos-delay="500" data-aos-duration="1000">
 
                             <div class="contact-box text-center">
-                                <h2 class="card-title text-heading fs-30 text-center font-weight-600 lh-173 m-0 be-agent">Become an Agent</h2>
+                                <h2 class="card-title text-heading fs-30 text-center font-weight-600 lh-173 m-0 be-agent">Join our waitlist</h2>
                                 <p class="card-text text-center pad-be-agent">...Lets build the future together</p>
                                 <!-- Contact Form -->
                                 <form id="contact-form" method="POST" class="register_form">
@@ -228,7 +228,7 @@ $days_Remaining = $user->countdown();
                                         <!-- Single Counter -->
                                         <div class="single-counter p-2 px-md-4 py-md-3 text-center">
                                             <span class="counter d-inline-block text-white fw-7"><?php print $no_of_users ?></span><span class="text-white fw-7"></span>
-                                            <h4 class="text-white fw-4 mt-2 mt-sm-3">Registered Agents</h4>
+                                            <h4 class="text-white fw-4 mt-2 mt-sm-3">Registered Users</h4>
                                         </div>
                                     </li>
                                 </div>
@@ -247,7 +247,7 @@ $days_Remaining = $user->countdown();
 
 
                             </div>
-                            <span class="d-inline-block text-white fw-3 font-italic mt-3">* Join our pioneer Agents, waiting to take housing into the smart age!</span>
+                            <span class="d-inline-block text-white fw-3 font-italic mt-3">* Join our pioneer client, waiting to experience housing in the smart age!</span>
                         </div>
                     </div>
                 </div>

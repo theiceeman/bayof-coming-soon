@@ -50,7 +50,7 @@ class user extends basicFunction
         $today = time();
 
         //B: RECORDS Date And Time OF YOUR EVENT
-        $event = mktime(0, 0, 0, 8, 15, 2021);
+        $event = mktime(0, 0, 0, 7, 20, 2024);
 
         //C: COMPUTES THE DAYS UNTIL THE EVENT.
         $countdown = round(($event - $today) / 86400);
