@@ -471,6 +471,9 @@ img {
 .social-icons > a.google-plus {
     background-color: #dd4b39 !important;
 }
+.social-icons > a.tiktok {
+    background-color: black !important;
+}
 
 .social-icons > a.vine {
     background-color: #00b489 !important;

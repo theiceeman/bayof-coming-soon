@@ -222,27 +222,27 @@ $days_Remaining = $user->countdown();
 
                                 <!-- <div class="counter-list"> -->
                                 <ul style="width: 100%;">
-                                    
-                                <div style="float: left;" class="col-sm-12 col-md-6 col-lg-6 m-auto">
-                                    <li class="d-inline-block">
-                                        <!-- Single Counter -->
-                                        <div class="single-counter p-2 px-md-4 py-md-3 text-center">
-                                            <span class="counter d-inline-block text-white fw-7"><?php print $no_of_users ?></span><span class="text-white fw-7"></span>
-                                            <h4 class="text-white fw-4 mt-2 mt-sm-3">Registered Users</h4>
-                                        </div>
-                                    </li>
-                                </div>
-                                <div style="float: left;" class="col-sm-12 col-md-6 col-lg-6 m-auto">
-                                    <li class="d-inline-block">
-                                        <!-- Single Counter -->
-                                        <div class="single-counter p-2 px-md-4 py-md-3 text-center">
-                                            <span class="counter d-inline-block text-white fw-7"><?php print $days_Remaining; ?></span><span class="text-white fw-7"> Days</span>
-                                            <h4 class="text-white fw-4 mt-2 mt-sm-3">Till Launch</h4>
-                                        </div>
-                                    </li>
-                                </div>
+
+                                    <div style="float: left;" class="col-sm-12 col-md-6 col-lg-6 m-auto">
+                                        <li class="d-inline-block">
+                                            <!-- Single Counter -->
+                                            <div class="single-counter p-2 px-md-4 py-md-3 text-center">
+                                                <span class="counter d-inline-block text-white fw-7"><?php print $no_of_users ?></span><span class="text-white fw-7"></span>
+                                                <h4 class="text-white fw-4 mt-2 mt-sm-3">Registered Users</h4>
+                                            </div>
+                                        </li>
+                                    </div>
+                                    <div style="float: left;" class="col-sm-12 col-md-6 col-lg-6 m-auto">
+                                        <li class="d-inline-block">
+                                            <!-- Single Counter -->
+                                            <div class="single-counter p-2 px-md-4 py-md-3 text-center">
+                                                <span class="counter d-inline-block text-white fw-7"><?php print $days_Remaining; ?></span><span class="text-white fw-7"> Days</span>
+                                                <h4 class="text-white fw-4 mt-2 mt-sm-3">Till Launch</h4>
+                                            </div>
+                                        </li>
+                                    </div>
                                 </ul>
-                            <!-- </div> -->
+                                <!-- </div> -->
 
 
 
@@ -287,16 +287,14 @@ $days_Remaining = $user->countdown();
                                         <i class="fab fa-instagram"></i>
                                         <i class="fab fa-instagram"></i>
                                     </a>
-                                    <a class="whatsapp" href="https://wa.me/2347070863051
-">
+                                    <a class="whatsapp" href="https://wa.me/2347070863051">
                                         <i class="fab fa-whatsapp"></i>
                                         <i class="fab fa-whatsapp"></i>
                                     </a>
-                                    <a class="tiktok" href="https://www.tiktok.com/@imperionix.co
-">
+                                    <!-- <a class="tiktok" href="https://www.tiktok.com/@imperionix.co">
                                         <i class="fab fa-tiktok"></i>
                                         <i class="fab fa-tiktok"></i>
-                                    </a>
+                                    </a> -->
                                 </div>
                             </div>
                         </div>
