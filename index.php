@@ -275,23 +275,28 @@ $days_Remaining = $user->countdown();
                             <div class="footer-items m-auto text-center pad-footer">
                                 <!-- Social Icons -->
                                 <div class="social-icons d-flex text-center p-auto">
-                                    <!-- <a class="facebook" href="https://web.facebook.com/ebube.okorie.94">
+                                    <a class="facebook" href="https://web.facebook.com/profile.php?id=61561923992489">
                                         <i class="fab fa-facebook-f"></i>
                                         <i class="fab fa-facebook-f"></i>
-                                    </a> -->
+                                    </a>
                                     <a class="twitter" href="https://x.com/imperionix_co">
                                         <i class="fab fa-twitter"></i>
                                         <i class="fab fa-twitter"></i>
                                     </a>
-                                    <!-- <a class="google-plus" href="https://www.instagram.com/kelviniot/">
+                                    <a class="google-plus" href="https://www.instagram.com/imperionix.co">
                                         <i class="fab fa-instagram"></i>
                                         <i class="fab fa-instagram"></i>
                                     </a>
-                                    <a class="whatsapp" href="https://wa.me/23408183175686
+                                    <a class="whatsapp" href="https://wa.me/2347070863051
 ">
                                         <i class="fab fa-whatsapp"></i>
                                         <i class="fab fa-whatsapp"></i>
-                                    </a> -->
+                                    </a>
+                                    <a class="tiktok" href="https://www.tiktok.com/@imperionix.co
+">
+                                        <i class="fab fa-tiktok"></i>
+                                        <i class="fab fa-tiktok"></i>
+                                    </a>
                                 </div>
                             </div>
                         </div>
