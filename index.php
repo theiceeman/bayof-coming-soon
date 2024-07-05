@@ -275,15 +275,15 @@ $days_Remaining = $user->countdown();
                             <div class="footer-items m-auto text-center pad-footer">
                                 <!-- Social Icons -->
                                 <div class="social-icons d-flex text-center p-auto">
-                                    <a class="facebook" href="https://web.facebook.com/ebube.okorie.94">
+                                    <!-- <a class="facebook" href="https://web.facebook.com/ebube.okorie.94">
                                         <i class="fab fa-facebook-f"></i>
                                         <i class="fab fa-facebook-f"></i>
-                                    </a>
+                                    </a> -->
                                     <a class="twitter" href="https://x.com/imperionix_co">
                                         <i class="fab fa-twitter"></i>
                                         <i class="fab fa-twitter"></i>
                                     </a>
-                                    <a class="google-plus" href="https://www.instagram.com/kelviniot/">
+                                    <!-- <a class="google-plus" href="https://www.instagram.com/kelviniot/">
                                         <i class="fab fa-instagram"></i>
                                         <i class="fab fa-instagram"></i>
                                     </a>
@@ -291,7 +291,7 @@ $days_Remaining = $user->countdown();
 ">
                                         <i class="fab fa-whatsapp"></i>
                                         <i class="fab fa-whatsapp"></i>
-                                    </a>
+                                    </a> -->
                                 </div>
                             </div>
                         </div>
