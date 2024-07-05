@@ -24,7 +24,7 @@ $days_Remaining = $user->countdown();
     <title>Imperionix - Lodgings, Properties, Flats, Comfort</title>
 
     <!-- Favicon  -->
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="icon" href="assets/img/favicon-2.png">
 
     <!-- ***** All CSS Files ***** -->
 
@@ -53,8 +53,8 @@ $days_Remaining = $user->countdown();
                     </filter>
                 </defs>
                 <g filter="url(#goo)">
-                    <circle class="dot" cx="50" cy="50" r="25" fill="#ff6f61" />
-                    <circle class="dot" cx="50" cy="50" r="25" fill="#ff6f61" />
+                    <circle class="dot" cx="50" cy="50" r="25" fill="rgba(16, 16, 45, 1)" />
+                    <circle class="dot" cx="50" cy="50" r="25" fill="rgba(16, 16, 45, 1)" />
                 </g>
             </svg>
             <div>
@@ -91,8 +91,8 @@ $days_Remaining = $user->countdown();
         <header class="navbar navbar-sticky navbar-expand-lg navbar-dark">
             <div class="container position-relative">
                 <a class="navbar-brand" href="index-2.html">
-                    <img class="navbar-brand-regular" width="123px" height="38px" src="assets/img/logo/v1/2.png" alt="brand-logo">
-                    <img class="navbar-brand-sticky" width="123px" height="38px" src="assets/img/logo/v1/3.png" alt="sticky brand-logo">
+                    <img class="navbar-brand-regular" width="123px" height="38px" src="assets/img/logo/v2/2.png" alt="brand-logo">
+                    <img class="navbar-brand-sticky" width="123px" height="38px" src="assets/img/logo/v2/3.png" alt="sticky brand-logo">
                 </a>
                 <!-- <button class="navbar-toggler d-lg-none" type="button" data-toggle="navbarToggler" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -279,7 +279,7 @@ $days_Remaining = $user->countdown();
                                         <i class="fab fa-facebook-f"></i>
                                         <i class="fab fa-facebook-f"></i>
                                     </a>
-                                    <a class="twitter" href="https://twitter.com/IotKelvin">
+                                    <a class="twitter" href="https://x.com/imperionix_co">
                                         <i class="fab fa-twitter"></i>
                                         <i class="fab fa-twitter"></i>
                                     </a>
